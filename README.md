@@ -55,6 +55,11 @@ apoyando a estudiantes en desarrollo de software y pensamiento lógico.
 <h3>QA y Automatización</h3>
 
 <p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/120065397?s=200&v=4" width="40"/>
+</p>
+
+<p>
 Selenium • Maestro • Test Automation • Manual Testing
 </p>
 
@@ -62,20 +67,23 @@ Selenium • Maestro • Test Automation • Manual Testing
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode,figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
+<img src="https://n8n.io/images/n8n-logo.png" width="40"/>
 </p>
 
 <p>
-n8n • Visual Studio • Visual Studio Code
+Docker • Git • Postman • Visual Studio Code • Visual Studio • n8n • Figma
 </p>
 
 <h3>Bases de Datos</h3>
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
 </p>
 
 <p>
-SQL Server
+MySQL • PostgreSQL • SQL Server
 </p>
 
 <hr>
