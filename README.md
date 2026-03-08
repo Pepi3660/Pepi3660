@@ -68,7 +68,7 @@ Selenium • Maestro • Test Automation • Manual Testing
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode,figma" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
-<img src="https://brandfetch.com/n8n.io?view=library&library=default&collection=logos&asset=idERZpr0VS&utm_source=https%253A%252F%252Fbrandfetch.com%252Fn8n.io&utm_medium=copyAction&utm_campaign=brandPageReferral" width="40"/>
+<img src="https://brandfetch.com/n8n.io?library=default&collection=logos&asset=idERZpr0VS" width="40"/>
 </p>
 
 <h3>Bases de Datos</h3>
