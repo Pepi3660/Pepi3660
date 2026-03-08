@@ -38,19 +38,18 @@ apoyando a estudiantes en desarrollo de software y pensamiento lógico.
 </p>
 
 <hr>
-
 <h2>🛠 Tecnologías</h2>
 
 <h3>Lenguajes</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,python,java,cs,kotlin,dart" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,dart,kotlin" />
 </p>
 
 <h3>Desarrollo</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,django" />
+<img src="https://skillicons.dev/icons?i=react,flutter,django,androidstudio" />
 </p>
 
 <h3>QA y Automatización</h3>
@@ -62,13 +61,21 @@ Selenium • Maestro • Test Automation • Manual Testing
 <h3>Herramientas</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,postman" />
+<img src="https://skillicons.dev/icons?i=docker,git,postman,vscode,figma" />
+</p>
+
+<p>
+n8n • Visual Studio • Visual Studio Code
 </p>
 
 <h3>Bases de Datos</h3>
 
 <p>
-MySQL • PostgreSQL • SQL Server
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+<p>
+SQL Server
 </p>
 
 <hr>
