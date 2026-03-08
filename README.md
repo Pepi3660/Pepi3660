@@ -38,43 +38,52 @@ apoyando a estudiantes en desarrollo de software y pensamiento lógico.
 </p>
 
 <hr>
-<h3>🛠 Tecnologías</h3>
+<h2>🛠 Tecnologías</h2>
 
-<h4>Lenguajes</h4>
+<h3>Lenguajes</h3>
+
 <p>
-<iconify-icon icon="logos:python"></iconify-icon> Python •
-<iconify-icon icon="logos:java"></iconify-icon> Java •
-<iconify-icon icon="logos:php"></iconify-icon> PHP •
-<iconify-icon icon="logos:javascript"></iconify-icon> JavaScript •
-<iconify-icon icon="logos:typescript-icon"></iconify-icon> TypeScript
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,dart,kotlin" />
 </p>
 
-<h4>Desarrollo</h4>
+<h3>Desarrollo</h3>
+
 <p>
-<iconify-icon icon="logos:react"></iconify-icon> React •
-<iconify-icon icon="logos:django"></iconify-icon> Django •
-<iconify-icon icon="logos:flutter"></iconify-icon> Flutter •
-<iconify-icon icon="logos:figma"></iconify-icon> Figma
+<img src="https://skillicons.dev/icons?i=react,flutter,django,androidstudio" />
 </p>
 
-<h4>QA y Automatización</h4>
+<h3>QA y Automatización</h3>
+
 <p>
-<iconify-icon icon="logos:selenium"></iconify-icon> Selenium •
-Maestro • Test Automation • Manual Testing
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/120065397?s=200&v=4" width="40"/>
 </p>
 
-<h4>Herramientas</h4>
 <p>
-<iconify-icon icon="logos:visual-studio-code"></iconify-icon> Visual Studio Code •
-<iconify-icon icon="logos:visual-studio"></iconify-icon> Visual Studio •
-<iconify-icon icon="logos:n8n"></iconify-icon> n8n
+Selenium • Maestro • Test Automation • Manual Testing
 </p>
 
-<h4>Bases de Datos</h4>
+<h3>Herramientas</h3>
+
 <p>
-<iconify-icon icon="logos:mysql"></iconify-icon> MySQL •
-<iconify-icon icon="logos:postgresql"></iconify-icon> PostgreSQL •
-<iconify-icon icon="logos:microsoft-sql-server"></iconify-icon> SQL Server
+<img src="https://skillicons.dev/icons?i=docker,git,postman,vscode,figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
+<img src="https://n8n.io/images/n8n-logo.png" width="40"/>
+</p>
+
+<p>
+Docker • Git • Postman • Visual Studio Code • Visual Studio • n8n • Figma
+</p>
+
+<h3>Bases de Datos</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+</p>
+
+<p>
+MySQL • PostgreSQL • SQL Server
 </p>
 <hr>
 
