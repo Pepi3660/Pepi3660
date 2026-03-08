@@ -142,3 +142,11 @@ MySQL • PostgreSQL • SQL Server
 <p align="center">
 ⭐ Abierto a colaborar en proyectos de <b>QA Automation, desarrollo web, mobile o automatización con IA</b>.
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Pepi3660&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepi3660&layout=compact&theme=tokyonight">
+</p>
