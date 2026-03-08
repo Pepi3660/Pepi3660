@@ -1,10 +1,14 @@
-<h1 align="center"><b>Hi , I'm Ricardo Alvarez </b>
+<h1 align="center">👋 Hola, soy Ricardo Álvarez</h1>
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
+<h3 align="center">
+QA Automation Engineer | FullStack Developer | Mobile Developer
+</h3>
+
 <p align="center">
-💻 Software Engineer | QA Automation | FullStack Developer <br>
-📍 Managua, Nicaragua
+📍 Managua, Nicaragua <br>
+💻 Ingeniero de Sistemas | Automatización | Desarrollo Web & Mobile
 </p>
 
 <p align="center">
