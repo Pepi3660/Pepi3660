@@ -68,11 +68,7 @@ Selenium • Maestro • Test Automation • Manual Testing
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode,figma" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
-<img src="https://n8n.io/images/n8n-logo.png" width="40"/>
-</p>
-
-<p>
-Docker • Git • Postman • Visual Studio Code • Visual Studio • n8n • Figma
+<img src="https://brandfetch.com/n8n.io?view=library&library=default&collection=logos&asset=idERZpr0VS&utm_source=https%253A%252F%252Fbrandfetch.com%252Fn8n.io&utm_medium=copyAction&utm_campaign=brandPageReferral" width="40"/>
 </p>
 
 <h3>Bases de Datos</h3>
@@ -80,10 +76,6 @@ Docker • Git • Postman • Visual Studio Code • Visual Studio • n8n • 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-</p>
-
-<p>
-MySQL • PostgreSQL • SQL Server
 </p>
 
 <hr>
