@@ -1,3 +1,5 @@
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+
 <h1 align="center">👋 Hola, soy Ricardo Álvarez</h1>
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
@@ -38,46 +40,44 @@ apoyando a estudiantes en desarrollo de software y pensamiento lógico.
 </p>
 
 <hr>
-<h2>🛠 Tecnologías</h2>
+<h3>🛠 Tecnologías</h3>
 
-<h3>Lenguajes</h3>
-
+<h4>Lenguajes</h4>
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,dart,kotlin" />
+<iconify-icon icon="logos:python"></iconify-icon> Python •
+<iconify-icon icon="logos:java"></iconify-icon> Java •
+<iconify-icon icon="logos:php"></iconify-icon> PHP •
+<iconify-icon icon="logos:javascript"></iconify-icon> JavaScript •
+<iconify-icon icon="logos:typescript-icon"></iconify-icon> TypeScript
 </p>
 
-<h3>Desarrollo</h3>
-
+<h4>Desarrollo</h4>
 <p>
-<img src="https://skillicons.dev/icons?i=react,flutter,django,androidstudio" />
+<iconify-icon icon="logos:react"></iconify-icon> React •
+<iconify-icon icon="logos:django"></iconify-icon> Django •
+<iconify-icon icon="logos:flutter"></iconify-icon> Flutter •
+<iconify-icon icon="logos:figma"></iconify-icon> Figma
 </p>
 
-<h3>QA y Automatización</h3>
-
+<h4>QA y Automatización</h4>
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
-<img src="https://avatars.githubusercontent.com/u/120065397?s=200&v=4" width="40"/>
+<iconify-icon icon="logos:selenium"></iconify-icon> Selenium •
+Maestro • Test Automation • Manual Testing
 </p>
 
+<h4>Herramientas</h4>
 <p>
-Selenium • Maestro • Test Automation • Manual Testing
+<iconify-icon icon="logos:visual-studio-code"></iconify-icon> Visual Studio Code •
+<iconify-icon icon="logos:visual-studio"></iconify-icon> Visual Studio •
+<iconify-icon icon="logos:n8n"></iconify-icon> n8n
 </p>
 
-<h3>Herramientas</h3>
-
+<h4>Bases de Datos</h4>
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,postman,vscode,figma" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
-<img src="https://brandfetch.com/n8n.io?library=default&collection=logos&asset=idERZpr0VS" width="40"/>
+<iconify-icon icon="logos:mysql"></iconify-icon> MySQL •
+<iconify-icon icon="logos:postgresql"></iconify-icon> PostgreSQL •
+<iconify-icon icon="logos:microsoft-sql-server"></iconify-icon> SQL Server
 </p>
-
-<h3>Bases de Datos</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-</p>
-
 <hr>
 
 <h2>💼 Experiencia</h2>
